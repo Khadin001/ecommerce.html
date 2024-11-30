@@ -1,0 +1,20 @@
+a {
+  text-decoration: none !important;
+  color: initial !important;
+}
+.moss{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 10px;
+}
+.miss{
+  border-spacing: 8px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 10px;
+}
+.img-fluid{
+  height: 200px !important;
+}
